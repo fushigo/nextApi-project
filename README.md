@@ -1,5 +1,5 @@
 ## Information
- ***This Project Make with [NextJS](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) AND Cloning Repositories [Geusan31](https://github.com/Geusan31/mantine_ugm)***
+ ***This Project Make with [NextJS](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) AND Inspiration From [Geusan31](https://github.com/Geusan31/mantine_ugm)***
 
 ## Getting Started
 
